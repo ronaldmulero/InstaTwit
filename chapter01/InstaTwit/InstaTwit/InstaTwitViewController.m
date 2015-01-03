@@ -22,10 +22,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.activities = @[@"sleeping", @"eating", @"working", @"thinking",
-                        @"crying", @"begging", @"leaving", @"shopping", @"hello worlding"];
-    self.feelings = @[@"awesome", @"sad", @"happy", @"ambivalent", @"nauseous",
-                      @"psyched", @"confused", @"hopeful", @"anxious"];
+    self.activities = @[@"networking", @"coding", @"tweeting", @"wireframing", @"working", @"meeting", @"pitching", @"pivoting", @"going mobile"];
+    self.feelings = @[@"confident", @"smart", @"agile", @"friendly", @"savvy", @"psyched", @"hopeful", @"efficient"];
 }
 
 #pragma mark -
